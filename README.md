@@ -1,5 +1,7 @@
 # AI Block for Google Overviews
 
+*This extension is no longer updated as I concentrate my effort on the Mozilla Firefox version and do not want to waste time on a version that cannot be upload on the Extension Marketplace (without paying)*
+
 This extension just deactivate AI Overviews during Google Search. It modifies the URL so the IA Mode is disable. 
 In all possible cases, the research is block on server-side. If not (it appends sometimes), it just erase it from your page so you are not disturbed.
 
